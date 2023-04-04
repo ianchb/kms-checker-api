@@ -1,5 +1,5 @@
 # kms-checker-api
-A very simple way to check if a kms server is available and return information about it in json.  Requires vlmcs.
+A very simple way to check if a kms server is available and return information about it in JSON.  Requires vlmcs.
 # How to use:  
 1. Fill in the path of vlmcs in check.py and run it;  
 2. Send a GET request to http://127.0.0.1:5000/check with the following parameters:  
